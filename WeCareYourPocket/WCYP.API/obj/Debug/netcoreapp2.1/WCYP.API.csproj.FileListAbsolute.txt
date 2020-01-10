@@ -1,0 +1,14 @@
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.API\bin\Debug\netcoreapp2.1\WCYP.API.deps.json
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.API\bin\Debug\netcoreapp2.1\WCYP.API.runtimeconfig.json
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.API\bin\Debug\netcoreapp2.1\WCYP.API.runtimeconfig.dev.json
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.API\bin\Debug\netcoreapp2.1\WCYP.API.dll
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.API\bin\Debug\netcoreapp2.1\WCYP.API.pdb
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.API\obj\Debug\netcoreapp2.1\WCYP.API.csprojAssemblyReference.cache
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.API\obj\Debug\netcoreapp2.1\WCYP.API.csproj.CoreCompileInputs.cache
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.API\obj\Debug\netcoreapp2.1\WCYP.API.RazorAssemblyInfo.cache
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.API\obj\Debug\netcoreapp2.1\WCYP.API.RazorAssemblyInfo.cs
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.API\obj\Debug\netcoreapp2.1\WCYP.API.AssemblyInfoInputs.cache
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.API\obj\Debug\netcoreapp2.1\WCYP.API.AssemblyInfo.cs
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.API\obj\Debug\netcoreapp2.1\WCYP.API.RazorTargetAssemblyInfo.cache
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.API\obj\Debug\netcoreapp2.1\WCYP.API.dll
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.API\obj\Debug\netcoreapp2.1\WCYP.API.pdb

@@ -1,0 +1,17 @@
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\obj\Debug\netcoreapp2.1\WCYP.test.csprojAssemblyReference.cache
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\obj\Debug\netcoreapp2.1\WCYP.test.csproj.CoreCompileInputs.cache
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\obj\Debug\netcoreapp2.1\WCYP.test.AssemblyInfoInputs.cache
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\obj\Debug\netcoreapp2.1\WCYP.test.AssemblyInfo.cs
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\bin\Debug\netcoreapp2.1\WCYP.test.deps.json
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\bin\Debug\netcoreapp2.1\WCYP.test.runtimeconfig.json
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\bin\Debug\netcoreapp2.1\WCYP.test.runtimeconfig.dev.json
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\bin\Debug\netcoreapp2.1\WCYP.test.dll
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\bin\Debug\netcoreapp2.1\WCYP.test.pdb
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\bin\Debug\netcoreapp2.1\WCYP.API.dll
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\bin\Debug\netcoreapp2.1\WCYP.API.pdb
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\obj\Debug\netcoreapp2.1\WCYP.test.csproj.CopyComplete
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\obj\Debug\netcoreapp2.1\WCYP.test.dll
+C:\Repos\weCareYourPokect\WeCareYourPocket\WCYP.test\obj\Debug\netcoreapp2.1\WCYP.test.pdb
